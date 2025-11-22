@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.14.36717.8 d17.14
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "toaster", "toaster.vcxproj", "{449C0572-745D-4B58-867E-92EBE6664969}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|x86 = Debug|x86
+		Release|x86 = Release|x86
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{449C0572-745D-4B58-867E-92EBE6664969}.Debug|x86.ActiveCfg = Debug|Win32
+		{449C0572-745D-4B58-867E-92EBE6664969}.Debug|x86.Build.0 = Debug|Win32
+		{449C0572-745D-4B58-867E-92EBE6664969}.Release|x86.ActiveCfg = Release|Win32
+		{449C0572-745D-4B58-867E-92EBE6664969}.Release|x86.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {22551D5F-71F0-49E0-91BF-EA82F9E10F2C}
+	EndGlobalSection
+EndGlobal
